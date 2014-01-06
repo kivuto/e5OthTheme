@@ -1,0 +1,43 @@
+———————————————————————————————————————————————————————————
+- 
+- Legend for : e-store-technical-wireframe_v3.pdf
+- 
+———————————————————————————————————————————————————————————
+
+1. Social Buttons
+2. Account Links
+3. Logo
+4. Search Main
+	4.1 - Search Input Box
+	4.2 - Search Text
+	4.3 - Search Button
+5. Main Menu
+	5.1 - MM Active Item
+		5.1.1 - MM Active Item Text          
+	5.2 - MM Inactive Item
+		5.2.1 - MM Inactive Item Text
+6. Banner
+7. Categories Main
+	7.1 - Categories Title Box
+		7.1.1 - Categories Title Text
+		7.2 - Categories Active text
+		7.3 - Categories Inactive Text
+8. Content Area
+	8.1 - Content Area Title Box
+		8.1.1 - Content Area Title Text
+	8.2 - Content Area PMV Boxshot
+	8.3 - Content Area PMV Product Name
+	8.4 - Content Area PMV Product Price
+9. Disclaimer Text
+10. Footer
+	10.1 - Disclaimer Links
+	10.2 - CarbonFree Logo
+	10.3 - OTH Logo
+	10.4 - Kivuto Logo
+	10.5 - Social Links
+	10.6 - Version #
+11. Footer Ad
+12. Right Ad
+13. Top Ad
+14. Page Wrapper
+15. Background
