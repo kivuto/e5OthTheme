@@ -82,7 +82,7 @@ a, a:visited, a:link{
 ------------------------------*/
 body{
 	/* [Action] - path should change when moving environmetns */ 	
-	background: url('//rsrc.onthehub.com/images/e5/estore/theme201309/oth-theme201309-bg.jpg') top center;
+	background: url('//rsrc.onthehub.com/images/e5/estore/theme201309/oth-theme201309-bg-v2.jpg') top center;
     background-size: 100%, auto;
     background-repeat: no-repeat;
 }
@@ -280,7 +280,7 @@ div.NavigationMenu{
 	background: transparent;
 	color: #4E4E4E;
 	z-index: 10;
-	border-bottom: 5px solid #f94707;
+	border-bottom: 5px solid #553966;
 	width:		960px;
 }
 
@@ -289,7 +289,7 @@ div.NavigationMenu td.NavigationMenuItem, div.NavigationMenu td.NavigationMenuIt
 }
 
 div.NavigationMenu table.NavigationMenu td.NavigationMenuItemSelected.NavigationMenuPrimaryColor a{
-	background:		#f94707;
+	background:		#553966;
 	color:		#fff;
 }
 
@@ -314,7 +314,7 @@ div.NavigationMenu table.NavigationMenu td.NavigationMenuPrimaryColor a, div.Nav
 }
 
 div.NavigationMenu table.NavigationMenu td.NavigationMenuPrimaryColor a:hover, div.NavigationMenu table.NavigationMenu td.NavigationMenuSecondaryColor a:hover{
-	background:		#f94707;
+	background:		#553966;
 	color:			#fff;
 }
 .NavigationChildMenuSpacer{
@@ -330,7 +330,7 @@ div.NavigationMenu table.NavigationMenu td.NavigationMenuPrimaryColor a:hover, d
 /*   Child Menu
 ----------------------------*/
 html body .NavigationChildMenu.PrimaryColor.NavigationMenuPrimaryColor{
-	background-color:	#f94707;
+	background-color:	#553966;
 	color:	#fff;
 	/* Fix small pixel issue with sub menu aligning up with main menu */
 	position: relative;
