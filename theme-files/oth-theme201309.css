@@ -82,7 +82,7 @@ a, a:visited, a:link{
 ------------------------------*/
 body{
 	/* [Action] - path should change when moving environmetns */ 	
-	background: url('//rsrc.onthehub.com/images/e5/estore/theme201309/oth-theme201309-bg-v2.jpg') top center;
+	background: url('//git.onthehub.com/e5othTheme2013/theme-files/oth-theme201309-bg-w13.jpg') top center;
     background-size: 100%, auto;
     background-repeat: no-repeat;
 }
