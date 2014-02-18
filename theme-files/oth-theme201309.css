@@ -196,14 +196,22 @@ a#ctl00_hlHome img{
 	height:		23px;
 }
 
-.ctl00_pnlSearch{
-	position:	absolute;
-	right:	20px
-	bottom: 3px;
+#ctl00_pnlSearch {
+	width: 230px;
+	position: absolute;
+	right: 0px;
+	bottom: 49px;
+	z-index: 199;
+	height: 10px;
+	background: #fff;
+	padding: 10px;
+	border: 2px solid #efefef;
 }
+
 
 .SearchContainer{
 	width:		890px;
+	border: transparent none 0px !important;
 }
 
 #ctl00_pnlSearch{
@@ -235,11 +243,12 @@ td.SearchContainer div#ctl00_pnlSearch fieldset{
 	bottom: 13px;
 }
 
-#ctl00_btnSearch{
-	position:	relative;
-	right:	2px;
-	top:	4px;
+#ctl00_btnSearch {
+	position: relative;
+	right: 0px;
+	top: -3px;
 }
+
 
 div#ctl00_pnlSearch input.SearchTextBox{
 	width:			200px;
