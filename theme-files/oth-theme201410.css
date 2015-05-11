@@ -194,11 +194,11 @@ a#ctl00_hlHome{
 	width:		220px;
 	height:		91px;
 	overflow:	hidden;
-	background:	url('//static.onthehub.com/production/images/oth2013/oth-theme-logo-spring-2014.jpg') no-repeat top left;
+/*	background:	url('//static.onthehub.com/production/images/oth2013/oth-estore-registered-logo.jpg') no-repeat top left; */
 }
 
 a#ctl00_hlHome img{
-	display:	none !important;
+	/* display:	none !important; */
 }
 
 /*
@@ -709,6 +709,33 @@ div.downloadStep {
 	border:	0px none !important;
 	box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.1) !important;
 	background: white !important;
+}
+
+@media screen and (max-width: 1200px) {
+    div.downloadStep {
+        font-size: 1em !important;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    div.downloadStep {
+        font-size: 1em !important;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    div.downloadStep {
+        font-size: 0.8em !important;
+        font-weight: bold;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    div.downloadStep {
+        font-size: 0.7em !important;
+    }
 }
 
 div.downloadStepText h1 {
